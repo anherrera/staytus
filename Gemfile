@@ -23,6 +23,7 @@ gem 'moonrope'
 gem 'florrick', '~> 1.1'
 gem 'delayed_job_active_record'
 gem 'foreman'
+gem 'foreman-export-initscript'
 gem 'redcarpet', '~> 3.2.2'
 gem 'premailer', '~> 1.8.3'
 
